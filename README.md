@@ -49,7 +49,7 @@ Code sample 2: React Component with Redux Integration
 <h2>Getting Started</h2>h2>
 To get started with the Marketplace project, follow these steps:
 
-    Clone the repository: git clone https://github.com/theMitocondria/MarketPlace.git
+    Clone the repository: git clone https://github.com/exception73/MarketPlaceFront
     
     Navigate to the project directory: cd MarketPlace
     
